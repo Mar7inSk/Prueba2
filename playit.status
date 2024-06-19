@@ -1,54 +1,894 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718828760897 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718830041280 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718828764108 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718830044333 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718828767218 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718830047479 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718828770271 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718830050534 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718828773322 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718830053592 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718828776389 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718830056650 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718828779499 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718830059698 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718828782583 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718830062753 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718828785639 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718830065801 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718828788754 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718830068845 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718828792023 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718830071892 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830074971 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830078017 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830081087 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830084146 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830087206 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830090263 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830093350 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830096440 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830099505 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830102560 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830105625 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830108702 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830111812 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830114851 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830117889 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830120951 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830124023 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830127090 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830130185 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830133223 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830136307 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830139405 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830142451 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830145501 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830148555 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830151805 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830154854 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830157913 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830160962 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830164009 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830167063 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830170131 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830173211 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830176286 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830179339 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830182402 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830185443 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830188486 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830191553 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830194606 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830197667 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830200724 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830203784 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830206862 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830209918 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830213016 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830216071 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830219126 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830222206 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830225273 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830228367 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830231443 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830234500 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830237555 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830240678 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830243798 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830246909 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830249960 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830253026 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830256088 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830259125 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830262188 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830265250 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830268320 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830271400 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830274571 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830277640 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830280682 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830283767 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830286849 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830289920 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830292959 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830296038 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830299101 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830302176 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830305260 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830308298 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830311431 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830314475 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830317521 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830320584 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830323806 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830326843 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830329913 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830333002 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830336234 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830339291 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830342354 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830345403 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830348470 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830351520 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830354574 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830357893 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830361011 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830364125 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830367186 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830370263 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830373323 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830376377 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830379607 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830383043 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830386089 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830389203 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830392247 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830395303 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830398383 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830401452 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830404529 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830407582 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830410639 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830413747 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830416789 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830419850 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830422905 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830426089 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830429178 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830432229 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830435426 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830438476 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830441531 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830444567 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830447619 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830450686 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830453737 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830456791 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830459856 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830463153 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830466198 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830469244 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830472286 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830475359 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830478419 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830481508 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830484571 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830487634 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830490695 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830493749 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830496836 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830499937 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830502975 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830506053 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830509126 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830512262 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830515322 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830518382 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830521437 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830524521 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830527601 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830530664 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830533711 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830536765 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830539835 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830542888 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830545943 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830548996 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830552076 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830555136 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830558182 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830561365 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830564406 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830567461 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830570596 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830573667 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830576720 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830579771 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830582835 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830585897 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+getting-instant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718830589056 tunnel running, 1 tunnels registered
 
 
 TUNNELS
